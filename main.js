@@ -15,7 +15,6 @@ if (localStorage.length != 0) {
     text[2].innerText = "Lastname: " + localStorage.getItem("lastname")
     text[3].innerText = "Username: " + localStorage.getItem("username")
     text[4].innerText = "Email: " + localStorage.getItem("email")
-    
 }
 
 
